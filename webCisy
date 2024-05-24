@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CisyAdopt</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<form action="loginadopt.html" method="post"></form>
+  <header>
+    <h1>CisyAdopt</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home Page</a></li>
+        <li><a href="#">Category</a></li>
+        <li><a href="#">Promo</a></li>
+        <li><a href="#">About Me</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <section class="produk">
+    <div class="produk-item">
+      <img src="cat1.jpeg" alt="Produk 1">
+      <h2>Sofia</h2>
+      <p>Distance (2 Km)</p>
+    </div>
+    <div class="produk-item">
+      <img src="cat2.jpeg" alt="Produk 2">
+      <h2>Woozy Lee</h2>
+      <p>Distance (500 m)</p>
+    </div>
+    <div class="produk-item">
+      <img src="cat3.jpeg" alt="Produk 3">
+      <h2>Hoshi Kwon</h2>
+      <p>Distance (5 Km)</p>
+    </div>
+    <div class="produk-item">
+      <img src="dog1.jpeg" alt="Produk 4">
+      <h2>Oppet</h2>
+      <p>Distance (4 Km)</p>
+    </div>
+    <div class="produk-item">
+      <img src="dog2.jpeg" alt="Produk 5">
+      <h2>Clifford</h2>
+      <p>Distance (7,2 Km)</p>
+    </div>
+    <div class="produk-item">
+      <img src="dog3.jpeg" alt="Produk 6">
+      <h2>Ziggy</h2>
+      <p>Distance (3 km)</p>
+    </div>
+    <div class="produk-item">
+      <img src="dog4.jpeg" alt="Produk 7">
+      <h2>Jooze</h2>
+      <p>Distance (2 km)</p>
+    </div>
+    <div class="produk-item">
+      <img src="rabbit.jpeg" alt="Produk 8">
+      <h2>Lily</h2>
+      <p>Distance (9 km)</p>
+    </div>
+    <div class="produk-item">
+      <img src="rabbit1.jpeg" alt="Produk 9">
+      <h2>Bunna</h2>
+      <p>Distance (3 km)</p>
+    </div>
+    <div class="produk-item">
+      <img src="rabbit2.jpeg" alt="Produk 10">
+      <h2>Minnie</h2>
+      <p>Distance (3 km)</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 CisyAdopt. All rights reserved.</p>
+  </footer>
+</body>
+</html>
